@@ -4,4 +4,4 @@ dependencies:
   - appmode
   - pip
   - pip:
-      - julia 1.0.2
+      - julia
